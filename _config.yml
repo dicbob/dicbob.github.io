@@ -14,8 +14,6 @@ markdown: kramdown
 title : Personal Blog
 tagline: ...yet another
 author :
-  name : Name Lastname
-  email : blah@email.test
   github : dicbob
   twitter : dicbobz
 
